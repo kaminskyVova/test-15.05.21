@@ -1,0 +1,15 @@
+Question W2 - Submission file: wordpress_q2.txt
+    Select all the actions that the following line of code does when used inside a WordPress
+    theme’s index.php file (one or more answers can be correct)
+
+<php get_header(“home”); ?>
+
+a. It loads a file name home.php
+
+b. It navigates to the homepage of your theme
+
+c. It loads a file name home-header.php //
+
+d. If the requested file not found, it will attemp to locate header.php  //
+
+/////////// // correct answers: C D

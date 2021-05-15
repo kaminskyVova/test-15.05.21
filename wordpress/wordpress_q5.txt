@@ -1,0 +1,15 @@
+Question W5 - Submission file: wordpress_q5.txt
+    Global Config
+    Which configuration items are stored in wp-config.php ? (Select all acceptable answers)
+
+1) WordPress version. 
+
+2) Database table prefix. //
+
+3) Database password. //
+
+4) Admin’s username for the WordPress panel.
+
+
+
+///////////// correct answers: 2) 3)

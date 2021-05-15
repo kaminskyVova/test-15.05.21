@@ -1,0 +1,19 @@
+Question W4 - Submission file: wordpress_q4.txt
+    Theme CSS
+    When developing a theme in WordPress, wich locations are correct for the CSS file for your theme?
+
+(Select all acceptable answers)
+
+1) Inside the folder named css, which is located inside the themes folder. //
+
+2) It must be placed in the same folder as the themes index.php file.
+
+3) Inside the directory named wp-includes/css. 
+
+4) In the root directory of the theme. //
+
+5) You do not need one. Themes must be styled using biult-in WordPress function. 
+
+
+
+////////////// correct answers: 1) 4)

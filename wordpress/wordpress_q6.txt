@@ -1,0 +1,17 @@
+Question W6 - Submission file: wordpress_q6.txt
+    Actions
+    Which of the following statements are true for WordPress actions?
+
+(Select all acceptable answers)
+
+1) WordPress actions are specifically made for themes. //
+
+2) Actions can be executed at any point throughout the WordPress page lifecycle. You can only use predefined WordPress actions.
+
+3) All actions are executed as soon as the page is loaded. //
+
+4) The function add_action() is used to hook a function to an action. //
+
+Actions with lower priorities are executed earlier than those with higher priorities.
+
+///////////// correct answers: 1) 3) 4)

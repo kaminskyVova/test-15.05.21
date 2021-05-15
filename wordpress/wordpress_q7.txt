@@ -1,0 +1,13 @@
+Question W7 - Submission file: wordpress_q7.txt
+    Widget Area
+    What function registers a custom widget area in a WordPress theme ? 
+    
+1) register_widget. //
+
+2) A custom widget area cannot be registred in a theme file. 
+
+3) register_sidebar. //
+
+4) register_widget_area.
+
+///////// correct answers: 1) 3)

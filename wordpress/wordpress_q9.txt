@@ -1,0 +1,14 @@
+Question W9 - Submission file: wordpress_q9.txt
+    Script Inclusion
+    What is the recommended way of including a JavaScript file in a WordPress page?
+
+1) The script tag should be inserted within the <head> element of the header.php file
+
+2) The wp_add_inline_script function should be used to tell WordPress to load the JavaScript file inline.
+
+3) The wp_enqueue_script function should be used to tell WordPress 
+    to place the script reference into the <head> element or before </body>. //
+
+4) The wp_enqueue_script function should be used to tell WordPress to load the script immediately into the <head> element or before </body>.
+
+////////// correct answer: 3)

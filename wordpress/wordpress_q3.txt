@@ -1,0 +1,18 @@
+Question W3 - Submission file: wordpress_q3.txt
+    Wich lines of code are valid?
+
+(Select all acceptable answers)
+
+a. $query = new WP_Query( array( ‘search’ => ‘contact’ ) ); // 
+
+b. $query = new WP_Query( array( ‘post_in’ => ‘array(7, 12) ) ); // 
+
+c. $query = new WP_Query( array( ‘p’ => 7 ) ); // 
+
+d. $query = new WP_Query( array( ‘posts_per_page’ => ‘twelve’ ) );
+
+e. $query = new WP_Query( array( ‘tax_query’ => array(array( ‘taxonomy’ => ‘books’,
+
+terms’ => ‘drama’, ‘field’ => ‘slug’ ) ) ) );
+
+////////// // correct answers: A B C

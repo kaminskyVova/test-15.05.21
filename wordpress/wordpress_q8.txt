@@ -1,0 +1,18 @@
+Question W8 - Submission file: wordpress_q8.txt
+    Plugin
+    Select all locations where you would change the name of a WordPress “testdome’ plugin that uses a common file structure.
+
+(Select all acceptable answers)
+
+1) Inside the file wp-content/plugins/testdome.php. //
+
+2) In the method call Plugin::setName(“plugin-name”) inside the plugin’s main file. 
+
+3) In the pages section of the WordPress admin dashboard. // 
+
+4) Inside the file wp-content/plugins/index.php.
+
+5) Inside the comment section at the top of the plugin’s main php file.
+
+///////// correct answers: 1) 3)
+

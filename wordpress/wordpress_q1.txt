@@ -1,0 +1,15 @@
+Open Questions - Submission file: wordpress_q1.txt
+
+A WordPress theme contains, among other things, 
+    all the files listed below. Which of these files will be used to display the homepage after this theme is activated? 
+    (one answer is correct)
+
+a. page-front.php
+
+b. front-page.php
+
+c. home.php
+
+d. index.php // 
+
+/////////// // correct answer: D
